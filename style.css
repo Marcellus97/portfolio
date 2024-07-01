@@ -1,0 +1,22 @@
+body {
+    line-height: 2em;
+}
+
+h1 {
+    font-variant-caps: all-petite-caps;
+    font-size: 2em;
+}
+
+h2 {
+    font-variant-caps: all-petite-caps;
+    font-size: 1.5em;
+}
+
+.header404 {
+    font-size: 8em;
+}
+
+.sadgif {
+    max-width: 500px;
+    margin: 100px auto 0 auto;
+}
