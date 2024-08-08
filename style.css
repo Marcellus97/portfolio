@@ -1,22 +1,22 @@
 body {
     line-height: 2em;
+    width: 600px;
 }
-
-h1 {
-    font-variant-caps: all-petite-caps;
-    font-size: 2em;
-}
-
-h2 {
-    font-variant-caps: all-petite-caps;
-    font-size: 1.5em;
-}
-
 .header404 {
     font-size: 8em;
+    margin-top: 100px;
 }
 
 .sadgif {
-    max-width: 500px;
     margin: 100px auto 0 auto;
+}
+
+#headshot {
+    position: relative;
+    left: 200px;
+    bottom: 150px;
+}
+
+h1 {
+    
 }
