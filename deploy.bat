@@ -1,0 +1,1 @@
+ssh -t root@marcellus.dev "sh ~/deploy.sh"
