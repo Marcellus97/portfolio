@@ -111,4 +111,9 @@ p {
   body {
     padding:0
   }
+
+  @media (max-width: 400px) {
+  #headshot {
+    width: 100%; 
+  }
 }
