@@ -54,6 +54,16 @@ nav a {
   font-weight: 500;
   transition: color 0.2s ease;
 }
+
+#headshot {
+  display:block; 
+  border-radius:15px; 
+  margin:1rem auto; 
+  max-width: 300px;
+  border-radius: 10px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+}
+
 /* Paragraph */
 p {
   font-size: 1rem;
@@ -97,14 +107,8 @@ p {
   line-height: 1.6;
 }
 
-/* Responsive tweak */
 @media (max-width: 600px) {
-  .experience {
-    flex-direction: column;
-    align-items: flex-start;
-  }
-
-  .right {
-    align-items: flex-start;
+  body {
+    padding:0
   }
 }
